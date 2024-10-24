@@ -1,7 +1,7 @@
 ## Olá, sou o Samuel 👋
 
 - 💻 Sou um Desenvolvedor Full Stack, atualmente com foco no Front End. 
-- 🌱 Atualmente estou focado em construir uma base sólida com as tecnolgias da web.
+- 🌱 Atualmente estou focado em construir uma base sólida com as principais tecnolgias da web.
 
 ## Minhas habilidades
 
